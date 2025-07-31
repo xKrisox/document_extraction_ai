@@ -1,0 +1,7 @@
+tesseract:
+  lang: "pol"
+  psm: 3
+  oem: 1
+
+thresholds:
+  token_confidence: 50 
